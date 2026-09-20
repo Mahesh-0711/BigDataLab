@@ -1,0 +1,4 @@
+{
+  "name": "Big Data Analytics Lab",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest"
+}
