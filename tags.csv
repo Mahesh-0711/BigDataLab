@@ -1,0 +1,7 @@
+userId,movieId,tag,timestamp
+1,1,funny,1001
+2,1,comedy,1002
+3,2,action,1003
+4,2,thrilling,1004
+5,3,romantic,1005
+6,1,funny,1006

@@ -1,0 +1,3 @@
+Hadoop is powerful
+Spark is fast and powerful
+Hadoop and Spark process big data
